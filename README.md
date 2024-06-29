@@ -146,8 +146,6 @@ Tests can be run by executing following command from the root of the project:
 $ mvn test
 ```
 
-## Helper Tools
-
 ### HAL REST Browser
 
 Go to the web browser and visit `http://localhost:8070/`
